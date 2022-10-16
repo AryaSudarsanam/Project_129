@@ -1,0 +1,14 @@
+.note {
+    color: black;
+    font-size: 15px;
+}
+
+.heading {
+    font-size: 20px;
+    box-shadow:  5px 5px 5px black;
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px red;
+}
